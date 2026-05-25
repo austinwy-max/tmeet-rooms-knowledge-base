@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Local staging area for files to be uploaded to GitHub Releases (not tracked)
+_uploads/
+
+# Files larger than 100MB should be uploaded as Release assets, not committed
+# Examples: large PPT, video, archive files

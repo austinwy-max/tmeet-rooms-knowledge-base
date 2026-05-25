@@ -5,8 +5,7 @@
   "note": "从 IMA 缓存数据初始化（2026-05-25 11:10），后续通过 sync_kb_to_git.py 增量更新",
   "stats": {
     "notes_ok": 14,
-    "files_ok": 0,
-    "pending_ppt": 1
+    "files_ok": 1
   },
   "items": {
     "cached_1": {
@@ -92,6 +91,18 @@
       "media_type": 11,
       "filename": "【Rooms】音频相关问题排查.md",
       "type_name": "笔记"
+    },
+    "ppt_training_v330320": {
+      "title": "腾讯会议rooms产品培训与操作指南v330320-20250310.pptx",
+      "media_type": 4,
+      "type_name": "PPT",
+      "storage": "github_release",
+      "release_tag": "assets-v1",
+      "asset_name": "腾讯会议rooms产品培训与操作指南v330320-20250310.pptx",
+      "download_url": "https://github.com/austinwy-max/tmeet-rooms-knowledge-base/releases/download/assets-v1/腾讯会议rooms产品培训与操作指南v330320-20250310.pptx",
+      "size_bytes": 186119578,
+      "size_human": "177.5 MB",
+      "note": "由于文件 >100MB 超过 GitHub 单文件限制，存放于 Release 资产中。同步脚本可通过 download_url 下载。"
     }
   }
 }
