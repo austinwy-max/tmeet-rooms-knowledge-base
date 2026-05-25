@@ -1,112 +1,97 @@
 {
-  "sync_time": "2026-05-25T15:45:20.562113+08:00",
+  "sync_time": "2026-05-25T16:55:36.627055+08:00",
   "knowledge_base_id": "-jBXNsW-BTfd8bcBt6rPnc4aZjzHnTBve8DOl3HYEdI=",
   "total_items": 16,
+  "note": "从 IMA 缓存数据初始化（2026-05-25 11:10），后续通过 sync_kb_to_git.py 增量更新",
   "stats": {
-    "notes_ok": 0,
-    "notes_fail": 15,
+    "notes_ok": 14,
     "files_ok": 0,
-    "files_fail": 1,
-    "web_ok": 0,
-    "skip": 0,
-    "unchanged": 0
+    "pending_ppt": 1
   },
   "items": {
-    "ppt_1488e476b50d01e7e9915ea9e696d38c_46f34bb01cc9d72e770df19ca83bcc0f7341287632025256": {
-      "title": "腾讯会议rooms产品培训与操作指南v330320-20250310.pptx",
-      "media_type": 4,
-      "status": "error",
-      "error": "no_download_url"
-    },
-    "note_1488e476b50d01e7e9915ea9e696d38c_74471007154626727341287632025256": {
+    "cached_1": {
       "title": "Rooms工单故障记录",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "Rooms工单故障记录.md",
+      "type_name": "笔记"
     },
-    "note_1488e476b50d01e7e9915ea9e696d38c_74432126207977907341287632025256": {
-      "title": "未命名笔记",
-      "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
-    },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73486475114842877341287632025256": {
+    "cached_3": {
       "title": "【腾讯会议】客户端已修复问题",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【腾讯会议】客户端已修复问题.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73464644685222797341287632025256": {
+    "cached_4": {
       "title": "腾讯会议问题排查",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "腾讯会议问题排查.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73440117695662277341287632025256": {
+    "cached_5": {
       "title": "【网络】",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【网络】.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73464629753433137341287632025256": {
+    "cached_6": {
       "title": "【闪退】",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【闪退】.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73439266335829797341287632025256": {
+    "cached_7": {
       "title": "【音频】",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【音频】.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73402015589496507341287632025256": {
+    "cached_8": {
       "title": "【通用】网络 UDP quic 原理",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【通用】网络 UDP quic 原理.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73428468897028147341287632025256": {
+    "cached_9": {
       "title": "【Rooms】功能",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【Rooms】功能.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73416763936830847341287632025256": {
+    "cached_10": {
       "title": "【通用】进退会",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【通用】进退会.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73416469832239217341287632025256": {
+    "cached_11": {
       "title": "【Rooms】客户端已修复问题",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【Rooms】客户端已修复问题.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73416435606650257341287632025256": {
+    "cached_12": {
       "title": "【通用】弹窗",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【通用】弹窗.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73412877075318757341287632025256": {
+    "cached_13": {
       "title": "【Rooms】云录制功能及常见排查",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【Rooms】云录制功能及常见排查.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73413079282613997341287632025256": {
+    "cached_14": {
       "title": "【录制】",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【录制】.md",
+      "type_name": "笔记"
     },
-    "note_2b2b4f63002b960162e983ad4e1d5a70_73413066993304527341287632025256": {
+    "cached_15": {
       "title": "【Rooms】音频相关问题排查",
       "media_type": 11,
-      "status": "error",
-      "error": "no_notebook_id"
+      "filename": "【Rooms】音频相关问题排查.md",
+      "type_name": "笔记"
     }
   }
 }
